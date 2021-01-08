@@ -1,34 +1,21 @@
-### Hey there, I'm [Silve1ra][website] 👋
+### Hey there, this is Felipe  👋
 
 
-[![Website](https://img.shields.io/website?label=silve1ra.github&style=for-the-badge&url=https://silve1ra.github.io/site/)](https://silve1ra.github.io/site/)
-  
+#### I am a Full Stack Web Engineer.
 
-## I'm a Developer and AI Researcher
+- 🎓 Education:
+	- Bachelor's in Computer Science Engineering (Brazil 🇧🇷)
+	- Summer School in Artificial Intelligence (China 🇨🇳)
+	- Exchange Master's in Applied Mathematics (Hungary 🇭🇺)
+	
+- 🚀 Stacks: ReactJs, AdonisJs, AWS and Tensorflow & Keras.
 
--  🤓 I just started my MSc degree
+- 💻 Tools: VSCode, Azure DevOps, Heroku, Gitkraken, Insomnia and DBeaver.
 
-- 👨‍💻 I’m currently working with web development 
+#### Connect with me:
 
-- 👯 I’m looking to collaborate in open source projects
-
-- 🥅 2020 Goal: Start working with an international company
-
-- ⚡ Fun fact: I love to read and to go hiking
-  
-
-### Connect with me:
-
-[<img align="left" alt="https://silve1ra.github.io/site/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="silve1ra | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-[<img align="left" alt="silve1ra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+[<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silve1ra">][linkedin] [![Website](https://img.shields.io/website?label=silve1ra.github&style=for-the-badge&url=https://silve1ra.github.io/site/)][website]
 
 ---
-
-[website]:  https://silve1ra.github.io/site
-[youtube]:  https://www.youtube.com/channel/UCblBVYas-oAjDyvj2qT4HTw/
 [linkedin]:  https://www.linkedin.com/in/silve1ra
+[website]: https://silve1ra.github.io/site/

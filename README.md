@@ -1,3 +1,5 @@
+<img src="https://shorturl.at/bijvA" min-width="400px" max-width="400px" width="400px" align="right" alt="FS Computer">
+
 ### Hey there, this is Felipe  👋
 
 

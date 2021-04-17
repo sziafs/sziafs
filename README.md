@@ -12,7 +12,7 @@
 	
 - 🚀 Current working with: Javascript/Typescript, NodeJs, AdonisJs, PostgreSQL, ElasticSearch, TDD with ChaiJs, Documentation with Swagger.
 
-- 💻 Tools: VSCode, Azure DevOps, Heroku, Gitkraken, Insomnia and DBeaver.
+- 💻 Tools: VSCode, Azure DevOps, Heroku, Gitkraken, Insomnia and PopSQL.
 
 #### Connect with me:
 

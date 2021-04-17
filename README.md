@@ -10,7 +10,7 @@
 	- Summer School in Artificial Intelligence (China 🇨🇳)
 	- Exchange Master's in Applied Mathematics (Hungary 🇭🇺)
 	
-- 🚀 Stacks: ReactJs, AdonisJs, AWS and Tensorflow & Keras.
+- 🚀 Current working with: Javascript/Typescript, NodeJs, AdonisJs, PostgreSQL, ElasticSearch, TDD with ChaiJs, Documentation with Swagger.
 
 - 💻 Tools: VSCode, Azure DevOps, Heroku, Gitkraken, Insomnia and DBeaver.
 

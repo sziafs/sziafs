@@ -20,4 +20,4 @@
 
 ---
 [linkedin]:  https://www.linkedin.com/in/silve1ra
-[website]: https://www.silveira.codes
+[website]: https://silveira.codes

@@ -20,4 +20,4 @@
 
 ---
 [linkedin]:  https://www.linkedin.com/in/silve1ra
-[website]: https://silve1ra.github.io/site/
+[website]: https://silve1ra.codes

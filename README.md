@@ -16,8 +16,8 @@
 
 #### Connect with me:
 
-[<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silve1ra">][linkedin] [![Website](https://img.shields.io/website?label=silve1ra.github&style=for-the-badge&url=https://silveira.codes/)][website]
+[<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silve1ra">][linkedin] [![Website](https://img.shields.io/website?label=silve1ra.codes&style=for-the-badge&url=https://silveira.codes/)][website]
 
 ---
 [linkedin]:  https://www.linkedin.com/in/silve1ra
-[website]: https://www.silve1ra.codes
+[website]: https://www.silveira.codes

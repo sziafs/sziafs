@@ -10,7 +10,7 @@
 	- Summer School in Artificial Intelligence (China 🇨🇳)
 	- Exchange Master's in Applied Mathematics (Hungary 🇭🇺)
 	
-- 🚀 Current working with: Javascript/Typescript, NodeJs, AdonisJs, PostgreSQL, ElasticSearch, TDD with ChaiJs, Documentation with Swagger.
+- 🚀 Current working with: Javascript/Typescript, Angular, NodeJs, NestJs/AdonisJs, PostgreSQL, Redis, ElasticSearch, ...
 
 - 💻 Tools: VSCode, Azure DevOps, Gitkraken, Insomnia and Datagrip.
 

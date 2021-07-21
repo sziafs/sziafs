@@ -9,6 +9,7 @@
 	- Bachelor's in Computer Science Engineering (Brazil 🇧🇷)
 	- Summer School in Artificial Intelligence (China 🇨🇳)
 	- Exchange Master's in Applied Mathematics (Hungary 🇭🇺)
+	- Ongoing Master's in Engineering Management (Hungary 🇭🇺)
 	
 - 🚀 Current working with: Javascript/Typescript, Angular, NodeJs, NestJs/AdonisJs, PostgreSQL, Redis, ElasticSearch, ...
 

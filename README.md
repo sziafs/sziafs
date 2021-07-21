@@ -10,6 +10,10 @@
 	- Summer School in Artificial Intelligence (China 🇨🇳)
 	- Exchange Master's in Applied Mathematics (Hungary 🇭🇺)
 	- Ongoing Master's in Engineering Management (Hungary 🇭🇺)
+
+- 📜 Certifications:
+	- Artificial Intelligence Engineering (Coursera)
+	- Full Stack Web Development (Udacity)
 	
 - 🚀 Current working with: Javascript/Typescript, Angular, NodeJs, NestJs/AdonisJs, PostgreSQL, Redis, ElasticSearch, ...
 

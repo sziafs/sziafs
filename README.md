@@ -17,7 +17,7 @@
 	
 - 🚀 Current working with: Javascript/Typescript, Angular, NodeJs, NestJs/AdonisJs, PostgreSQL, Redis, ElasticSearch, ...
 
-- 💻 Tools: VSCode, Azure DevOps, Gitkraken, Insomnia and Datagrip.
+- 💻 Daily Tools: VSCode, Azure DevOps, Gitkraken, Insomnia, Datagrip, Clockify, Todoist and Notion.
 
 #### Connect with me:
 

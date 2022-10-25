@@ -3,7 +3,7 @@
 ### Hey there, this is Felipe  👋
 
 
-#### I am a Full Stack Web Engineer.
+#### I am a Software Engineer.
 
 - 🎓 Education:
 	- Bachelor's in Computer Science Engineering (Brazil 🇧🇷)
@@ -15,14 +15,14 @@
 	- Artificial Intelligence Engineering (Coursera)
 	- Full Stack Web Development (Udacity)
 	
-- 🚀 Current working with: Javascript/Typescript, Angular, NodeJs, NestJs/AdonisJs, PostgreSQL, Redis, ElasticSearch, ...
+- 🚀 Current working with: Javascript/Typescript, NodeJs, NestJs/AdonisJs, PostgreSQL, ElasticSearch, AWS ...
 
-- 💻 Daily Tools: VSCode, Azure DevOps, Gitkraken, Insomnia, Datagrip, Clockify, Todoist and Notion.
+- 💻 Daily Tools: VSCode, Gitkraken, Postman, Datagrip, Clockify, Todoist and Notion.
 
 #### Connect with me:
 
 [<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silve1ra">][linkedin] [![Website](https://img.shields.io/website?label=silve1ra.codes&style=for-the-badge&url=https://silveira.codes/)][website]
 
 ---
-[linkedin]:  https://www.linkedin.com/in/silve1ra
-[website]: https://silveira.codes
+[linkedin]:  https://www.linkedin.com/in/sziafs
+[website]: https://felipesilveira.org

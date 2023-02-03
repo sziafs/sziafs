@@ -1,23 +1,22 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="FS Computer">
 
-### Hey there, this is Felipe  👋
+### Hi, glad you here 👋
 
 
 #### I am a Software Engineer.
 
-- 🎓 Education:
-	- Bachelor's in Computer Science Engineering (Brazil 🇧🇷)
-	- Summer School in Artificial Intelligence (China 🇨🇳)
-	- Exchange Master's in Applied Mathematics (Hungary 🇭🇺)
-	- Ongoing Master's in Engineering Management (Hungary 🇭🇺)
+Education:
+- Bachelor's Degree in Computer Science Engineering
+- Summer School in Product Design
+- Master's Degree in Engineering Management
 
-- 📜 Certifications:
-	- Artificial Intelligence Engineering (Coursera)
-	- Full Stack Web Development (Udacity)
+Certifications:
+- Artificial Intelligence Engineering
+- Full Stack Web Development
 	
-- 🚀 Current working with: Javascript/Typescript, NodeJs, NestJs/AdonisJs, PostgreSQL, ElasticSearch, AWS ...
+Current working with: Javascript/Typescript, NodeJs, NestJs/AdonisJs, PostgreSQL, ElasticSearch, AWS ...
 
-- 💻 Daily Tools: VSCode, Gitkraken, Postman, Datagrip, Clockify, Todoist and Notion.
+Daily Tools: VSCode, Gitkraken, Postman, Datagrip, Clockify and Notion.
 
 #### Connect with me:
 

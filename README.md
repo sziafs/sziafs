@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="FS Computer">
 
-### Hi, glad you here 👋
+### Glad you here 👋
 
 
 #### I am a Software Engineer.
@@ -14,9 +14,11 @@ Certifications:
 - Artificial Intelligence Engineering
 - Full Stack Web Development
 	
-Current working with: Javascript/Typescript, NodeJs, NestJs/AdonisJs, PostgreSQL, ElasticSearch, AWS ...
+Current working with: 
+Javascript/Typescript, NodeJs, Serverless, NestJs/AdonisJs, PostgreSQL, ElasticSearch, AWS ...
 
-Daily Tools: VSCode, Gitkraken, Postman, Datagrip, Clockify and Notion.
+Daily Tools: 
+VSCode, Gitkraken, Postman, Datagrip, Clockify and Notion.
 
 #### Connect with me:
 

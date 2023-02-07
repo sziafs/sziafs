@@ -7,7 +7,7 @@
 
 Education:
 - Bachelor's Degree in Computer Science Engineering
-- Summer School in Product Design
+- Summer School in Design Thinking
 - Master's Degree in Engineering Management
 
 Certifications:
